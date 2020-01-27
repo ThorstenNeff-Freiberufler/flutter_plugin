@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="RateAppMessage">Wenn Dir die App gefallen hat, würden wir uns über eine Bewertung im PlayStore freuen.</string>
+    <string name="RateAppYes">Bewerten</string>
+    <string name="RateAppNo">Nein, jetzt nicht</string>
+</resources>
